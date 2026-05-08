@@ -50,4 +50,4 @@ ubah ke get node js seperti pada gambar dibawah ini
 
 12. Akses http://[IP_ADDRESS]:3000
 13. akses BE http://[IP_ADDRESS]:3000/admin edit berita ke 2 tambahkan nama - nim
-![alt text](image-6.png)
+![alt text](image-8.png)
